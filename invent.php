@@ -14,19 +14,11 @@
                 <h1><?php echo constant("CORE_INVENT_NAME"); ?></h1>
                 <h3><?php echo constant("CORE_NAMEWITHOWNER"); ?></h3>
             </div>
-            <div class="row" style="text-align: center;">
-                <div class="span3">
-                    <a class="btn btn-large btn-primary" href="<?php echo constant("CORE_URL").constant("CORE_INVENT_URL"); ?>"><?php echo constant("CORE_INVENT_NAME"); ?></a>
-                </div>
-                <div class="span3">
-                    <a class="btn btn-large btn-primary" href="<?php echo constant("CORE_URL").constant("CORE_PROJECT_URL"); ?>"><?php echo constant("CORE_PROJECT_NAME"); ?></a>
-                </div>
-                <div class="span3">
-                    <a class="btn btn-large btn-primary" href="<?php echo constant("CORE_URL").constant("CORE_MAKE_URL"); ?>"><?php echo constant("CORE_MAKE_NAME"); ?></a>
-                </div>
-                <div class="span3">
-                    <a class="btn btn-large btn-primary" href="<?php echo constant("CORE_URL").constant("CORE_RELEASE_URL"); ?>"><?php echo constant("CORE_RELEASE_NAME"); ?></a>
-                </div>
+            <div class="span2">
+                <iframe src="https://embed.spotify.com/?uri=<?php echo constant("CORE_INVENT_SPOTIURI"); ?>" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+            </div>
+            <div class="span10">
+                
             </div>
         </div>
     </body>
