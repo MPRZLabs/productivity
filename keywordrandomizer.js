@@ -47,7 +47,15 @@ var keywords = [
     "remote",
     "lost",
     "alone",
-    "independence"
+    "independence",
+    "new age",
+    "broken",
+    "moon phases",
+    "rain",
+    "clock",
+    "network",
+    "communication breakdown",
+    "<span class=\"muted\">Herobrine</span>"
 ];
 
 function randomize()
