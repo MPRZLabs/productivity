@@ -83,7 +83,26 @@ var keywords = [
     "never cannot",
     "unknown source",
     "Pacifist Killer Squids with shotguns in outerspace",
-    "sign as a weapon"
+    "sign as a weapon",
+    "useless",
+    "awkward conversations",
+    "teenage gamedev",
+    "forgotten musician",
+    "maybe",
+    "guitar as a trophy",
+    "hypnosis",
+    "nemeses",
+    "christmas",
+    "easter",
+    "chanukah",
+    "wikipedia",
+    "internationality",
+    "hidden message",
+    "plastik",
+    "the last unicorn",
+    "cursed",
+    "non-voxel Minecraft",
+    "Japanese pop"
 ];
 
 function randomize()
