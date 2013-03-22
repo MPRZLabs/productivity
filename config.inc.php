@@ -12,6 +12,8 @@ if (strtolower(substr(constant("CORE_OWNER"), -1)) == "s") {
 define("CORE_INVENT_NAME", "Sparks");
 define("CORE_INVENT_URL", "invent.php");
 define("CORE_INVENT_SPOTIURI", "spotify:user:michcioperz:playlist:42nETsKhWuJHgu81iS1vtC");
+define("CORE_INVENT_KEYWORDRANDOMIZER_NAME", "Inspiration Implosion");
+define("CORE_INVENT_KEYWORDRANDOMIZER_ACTIONTEXT", "Implode the Universe!");
 
 define("CORE_PROJECT_NAME", "Gunpowder");
 define("CORE_PROJECT_URL", "project.php");
